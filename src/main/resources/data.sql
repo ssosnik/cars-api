@@ -1,0 +1,6 @@
+insert into cars (brand_name, model, production_year, price, color) values ('BMW', 'M4', 2016, 50000, 'red')
+insert into cars (brand_name, model, production_year, price, color) values ('BMW', 'X5', 2021, 100000, 'black')
+insert into cars (brand_name, model, production_year, price, color) values ('BMW', 'M6', 2022, 900000, 'grey')
+insert into cars (brand_name, model, production_year, price, color) values ('Audi', 'A6', 2011, 82000, 'green')
+insert into cars (brand_name, model, production_year, price, color) values ('Ford', 'Mustang', 1969, 75000, 'red')
+insert into cars (brand_name, model, production_year, price, color) values ('Toyota', 'Prius', 2005, 25000, 'blue')
